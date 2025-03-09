@@ -3,4 +3,4 @@ author        = "amankton"
 description   = "UI primitives and animations for Karax"
 license       = "MIT"  # Or whatever license the original project uses
 
-requires "karax >= 1.3.0" # Adjust version as needed
+requires "karax>= 1.3.0" # Adjust version as needed
